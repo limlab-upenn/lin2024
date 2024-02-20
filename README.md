@@ -27,4 +27,6 @@ This file measures the anterior-posterior (AP) and dorsal-ventral (DV) lengths o
 Output_heatmap
 Thia file generate heatmaps showing cumulative mRNA production in individual nuclei.
 
+Shaded error bars were generated using code modified from: Rob Campbell (2023). raacampbell/shadedErrorBar (https://github.com/raacampbell/shadedErrorBar)
+
 
